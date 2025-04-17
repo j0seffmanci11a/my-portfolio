@@ -6,7 +6,7 @@ export default function Home() {
       initial={{ opacity: 0 }} 
       animate={{ opacity: 1 }} 
       className="h-[calc(100vh-8rem)] bg-cover bg-center flex items-center justify-center text-white"
-      style={{ backgroundImage: "url('/your-background.png')" }}
+      style={{ backgroundImage: "url('src/assets/background.png')" }}
     >
       <div className="text-center bg-black/50 p-8 rounded-xl">
         <h1 className="text-4xl font-bold mb-4">Hi, I'm [Joseff Mancilla]</h1>

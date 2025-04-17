@@ -56,8 +56,8 @@ export default function Contact() {
       </form>
       <div className="mt-4">
         <p>Or reach me at:</p>
-        <a href="https://github.com/yourprofile" className="text-blue-500">GitHub</a> | 
-        <a href="https://linkedin.com/in/yourprofile" className="text-blue-500 ml-2">LinkedIn</a>
+        <a href="https://github.com/j0seffmanci11a" className="text-blue-500">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/joseff-mancilla-809b6b2b1/" className="text-blue-500 ml-2">LinkedIn</a>
       </div>
     </section>
   )

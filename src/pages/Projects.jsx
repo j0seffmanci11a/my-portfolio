@@ -1,7 +1,7 @@
 const projects = [
-  { title: "Todo App", desc: "A React Native app for managing tasks.", link: "https://youtu.be/rm4-zfmUhFg", img: "/todo.png" },
-  { title: "Exercise Tracker", desc: "Track your workouts using React.", link: "https://youtu.be/2ceuuEmhejI", img: "/exercise.png" },
-  { title: "Quiz App", desc: "A basic exercise app with timers and rep counter.", link: "https://youtu.be/EX1hHGo-Oe8", img: "/assets/quiz.png" },
+  { title: "Todo App", desc: "A React Native app for managing tasks.", link: "https://youtu.be/rm4-zfmUhFg", img: "src/assets/todo.png" },
+  { title: "Exercise Tracker", desc: "Track your workouts using React.", link: "https://youtu.be/2ceuuEmhejI", img: "src/assets/exercise.png" },
+  { title: "Quiz App", desc: "A basic exercise app with timers and rep counter.", link: "https://youtu.be/EX1hHGo-Oe8", img: "src/assets/quiz.png" },
 ]
 
 export default function Projects() {

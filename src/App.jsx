@@ -1,10 +1,12 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import Navbar from "./components/Navbar"
-import Footer from "./components/Footer"
-import Home from "./pages/Home"
-import About from "./pages/About"
-import Projects from "./pages/Projects"
-import Contact from "./pages/Contact"
+import { HashRouter as Router, Routes, Route } from "react-router-dom"
+// 👆 use HashRouter
+
+import Navbar from "src/components/Navbar"
+import Footer from "src/components/Footer"
+import Home from "src/pages/Home"
+import About from "src/pages/About"
+import Projects from "src/pages/Projects"
+import Contact from "src/pages/Contact"
 
 function App() {
   return (
