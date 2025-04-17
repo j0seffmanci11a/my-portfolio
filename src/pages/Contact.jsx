@@ -55,10 +55,26 @@ export default function Contact() {
         <button className="bg-green-700 text-white px-4 py-2 rounded">Send</button>
       </form>
       <div className="mt-4">
-        <p>Or reach me at:</p>
-        <a href="https://github.com/j0seffmanci11a" className="text-green-500"target="_blank" rel="noopener noreferrer">GitHub</a> | 
-        <a href="https://www.linkedin.com/in/joseff-mancilla-809b6b2b1" className="text-green-500 ml-2"target="_blank" rel="noopener noreferrer">LinkedIn</a>
-      </div>
+  <p>Or reach me at:</p>
+  <a 
+    href="https://github.com/j0seffmanci11a" 
+    className="text-blue-500 hover:underline" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    GitHub
+  </a> 
+  | 
+  <a 
+    href="https://www.linkedin.com/in/joseff-mancilla-809b6b2b1" 
+    className="text-blue-500 hover:underline ml-2" 
+    target="_blank" 
+    rel="noopener noreferrer"
+  >
+    LinkedIn
+  </a>
+</div>
+
     </section>
   )
 }
