@@ -56,8 +56,8 @@ export default function Contact() {
       </form>
       <div className="mt-4">
         <p>Or reach me at:</p>
-        <a href="https://github.com/j0seffmanci11a" className="text-green-500">GitHub</a> | 
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwig1oTx49-MAxX-RDABHXImDPkQFnoECBEQAQ&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoseff-mancilla-809b6b2b1&usg=AOvVaw1fEV8LA-NunrgmsmI_QW9Y&opi=89978449" className="text-green-500 ml-2">LinkedIn</a>
+        <a href="https://github.com/j0seffmanci11a" className="text-green-500"target="_blank" rel="noopener noreferrer">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/joseff-mancilla-809b6b2b1" className="text-green-500 ml-2"target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </div>
     </section>
   )
