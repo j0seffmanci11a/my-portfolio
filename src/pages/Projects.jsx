@@ -15,7 +15,7 @@ export default function Projects() {
             <div className="p-4">
               <h3 className="text-xl font-semibold">{p.title}</h3>
               <p className="text-sm mb-2">{p.desc}</p>
-              <a href={p.link} className="text-blue-500 underline">View Project</a>
+              <a href={p.link} className="text-green-500 underline">View Project</a>
             </div>
           </div>
         ))}
