@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/my-portfolio/', // 👈 your repo name
   plugins: [react()],
 })
+
