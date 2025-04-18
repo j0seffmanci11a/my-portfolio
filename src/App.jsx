@@ -8,6 +8,8 @@ import About from "src/pages/About"
 import Projects from "src/pages/Projects"
 import Contact from "src/pages/Contact"
 
+
+
 function App() {
   return (
     <Router>
@@ -26,6 +28,6 @@ function App() {
     </Router>
   )
 }
-
+<link rel="type/css" href="src/index.css"></link>
 export default App
 
